@@ -1,0 +1,31 @@
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.exe.config
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.pdb
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.csprojResolveAssemblyReference.cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmPrincipal.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.Properties.Resources.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.csproj.GenerateResource.Cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.pdb
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmCadastroCarro.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmCadastroPessoa.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmExemploIf.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmExemploSwitch.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmAula07Ex01.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmAula07Ex02.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.exe.config
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\bin\Debug\Aula 07 MDI.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmAula07Ex01.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmAula07Ex02.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmCadastroCarro.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmCadastroPessoa.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmExemploIf.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmExemploSwitch.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.frmPrincipal.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula_07_MDI.Properties.Resources.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.csproj.GenerateResource.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula 07 MDI\Aula 07 MDI\obj\Debug\Aula 07 MDI.pdb
